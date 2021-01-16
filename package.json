@@ -1,0 +1,30 @@
+{
+  "name": "raspify",
+  "version": "1.0.1",
+  "description": "Add raspberry noise between words like when Spongebob was in Rock Bottom",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bengouma/raspify.git"
+  },
+  "keywords": [
+    "raspberry",
+    "npm",
+    "node",
+    "sentence",
+    "string",
+    "js",
+    "javascript",
+    "spongebob",
+    "rock bottom"
+  ],
+  "author": "Ben Goumalatsos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bengouma/raspify/issues"
+  },
+  "homepage": "https://github.com/bengouma/raspify#readme"
+}
