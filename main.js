@@ -9,3 +9,5 @@ function raspify(sentence) {
     }
     return newWord;
 }
+
+module.exports = { raspify };
